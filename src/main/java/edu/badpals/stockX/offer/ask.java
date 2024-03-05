@@ -22,7 +22,8 @@ public class Ask implements Offer{
         return this.ask.compareTo(ask.value());
     }
 
+    @Override
     public String toString(){
-        return  this.size() +  this.value() ;
+        return  this.size() +  Integer.toString(this.value()) ;
     }
 }
