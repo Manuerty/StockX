@@ -1,4 +1,4 @@
 package edu.badpals.stockX.criteria;
 
-public class minAsk {
+public class Bids {
 }

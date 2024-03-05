@@ -1,4 +1,4 @@
 package edu.badpals.stockX.criteria;
 
-public class sales {
+public class Size {
 }

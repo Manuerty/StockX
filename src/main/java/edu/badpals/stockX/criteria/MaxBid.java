@@ -1,4 +1,4 @@
 package edu.badpals.stockX.criteria;
 
-public interface criteria {
+public class MaxBid {
 }

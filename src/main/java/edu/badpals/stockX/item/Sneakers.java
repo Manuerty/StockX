@@ -1,4 +1,4 @@
 package edu.badpals.stockX.item;
 
-public interface item {
+public class Sneakers {
 }
